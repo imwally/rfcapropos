@@ -3,7 +3,7 @@ rfcapropos
 Like apropos(1) but for RFCs.
 
 ```
-rfcapropos(1)
+rfcapropos(1)                                                               rfcapropos(1)
 
 NAME
         rfcapropos - search for RFCs by keyword or phrase
@@ -13,12 +13,12 @@ SYNOPSIS
         displays the results on the standard output. 
 
 AUTHOR
-    Wally Jones <wally@imwally.net>
+        Wally Jones <wally@imwally.net>
 
 SEE ALSO
-    apropos(1)
+        apropos(1)
 
-                                    September 13, 2016
+                                    September 13, 2016                      rfcapropos(1)
 ```
 
 Install
