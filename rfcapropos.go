@@ -44,8 +44,8 @@ func Search(keyword string) ([]RFC, error) {
 }
 
 func main() {
-	if (len(os.Args)) < 2 {
-		fmt.Println("usage: rfcapropos keyword ...")
+	if (len(os.Args)) != 2 {
+		fmt.Println("usage: rfcapropos keyword or phrase...")
 		return
 	}
 
