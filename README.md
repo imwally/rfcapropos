@@ -17,8 +17,8 @@ NOTES
         rfcsearch API at https://rfcsearch-gorun.rhcloud.com which in turn are
         sent to RFC Editor's search page at
         https://www.rfc-editor.org/search/rfc_search.php. Only alphanumerical
-        characters are allowed. For example, instead of searching for "SSL 3.0"
-        try the phrase "SSL 3" or "tls 1" instead of "tls1.2".
+        characters are allowed. For example, instead of searching for "ssl 3.0"
+        try the phrase "ssl 3" or "tls 1" instead of "tls1.2".
 
 AUTHOR
         Wally Jones <wally@imwally.net>
