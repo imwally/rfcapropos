@@ -9,7 +9,7 @@ import (
 	"os"
 )
 
-const API = "https://rfcsearch-gorun.rhcloud.com"
+const API = "https://rfcsearch.herokuapp.com"
 
 type RFC struct {
 	Number string
