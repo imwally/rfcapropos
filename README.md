@@ -14,7 +14,7 @@ SYNOPSIS
 
 NOTES
         An internet connection is required. Search terms are sent to the
-        rfcsearch API at https://rfcsearch-gorun.rhcloud.com which in turn are
+        rfcsearch API at https://rfcsearch.herokuapp.com which in turn are
         sent to RFC Editor's search page at
         https://www.rfc-editor.org/search/rfc_search.php. Only alphanumerical
         characters are allowed. For example, instead of searching for "ssl 3.0"
